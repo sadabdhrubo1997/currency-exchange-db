@@ -9,7 +9,7 @@
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
     "toIcon": "/assets/icons/icon-litecoin.png",
-    "address": "something"
+    "address": "address"
   },
   {
     "id": "2",
@@ -20,7 +20,8 @@
       "0.40000000 BTC = 187,6769 LTC ( Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-dogecoin.png"
+    "toIcon": "/assets/icons/icon-dogecoin.png",
+    "address": "address"
   },
 
   {
@@ -33,7 +34,8 @@
       "0.40000000 BTC = 6,81536679 ETH (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-ethereum.png"
+    "toIcon": "/assets/icons/icon-ethereum.png",
+    "address": "address"
   },
   {
     "id": "4",
@@ -45,7 +47,8 @@
       "0.40000000 BTC = 209,7472 Dash (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-dash.png"
+    "toIcon": "/assets/icons/icon-dash.png",
+    "address": "address"
   },
   {
     "id": "5",
@@ -57,7 +60,8 @@
       "0.40000000 BTC = 2576231 PIRL (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-pirl.png"
+    "toIcon": "/assets/icons/icon-pirl.png",
+    "address": "address"
   },
   {
     "id": "6",
@@ -68,7 +72,8 @@
       "0.40000000 BTC = 56129 ADX (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-adex.png"
+    "toIcon": "/assets/icons/icon-adex.png",
+    "address": "address"
   },
   {
     "id": "7",
@@ -80,7 +85,8 @@
       "0.40000000 BTC = 6,81536679 ETH (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-aion.png"
+    "toIcon": "/assets/icons/icon-aion.png",
+    "address": "address"
   },
   {
     "id": "8",
@@ -92,7 +98,8 @@
       "0.40000000 BTC = 6,81536679 ETH (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-lsk.png"
+    "toIcon": "/assets/icons/icon-lsk.png",
+    "address": "address"
   },
   {
     "id": "9",
@@ -104,6 +111,7 @@
       "0.40000000 BTC = 78805 ELF (Fee 4%)"
     ],
     "fromIcon": "/assets/icons/icon-bitcoin.png",
-    "toIcon": "/assets/icons/icon-aelf.png"
+    "toIcon": "/assets/icons/icon-aelf.png",
+    "address": "address"
   }
 ]
